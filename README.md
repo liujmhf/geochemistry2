@@ -1,1 +1,1 @@
-Geochemical  prediction（SVM，RF，FNN）
+Geochemical  
